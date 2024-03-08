@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995176526066",
+    "project_id": "codejam2-flutter-smiu",
+    "storage_bucket": "codejam2-flutter-smiu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995176526066:android:265663e709b4a020e7e06b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_revision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLijplCAoUDb75wNAD13bNa38EuCPu5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
