@@ -31,7 +31,7 @@ class Item extends StatelessWidget {
                 Container(
                   color: Colors.blue,
                 ),
-                Image.network(
+                Image.asset(
                   image,
                 ),
               ],
